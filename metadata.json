@@ -1,0 +1,11 @@
+{
+  "name": "AI Real-Time Life Copilot",
+  "description": "Futuristic 24/7 personal companion platform integrating continuous multi-modal vision, wearable biometrics, financial guardian, and social memory with low-latency native multilingual intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
